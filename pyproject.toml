@@ -25,7 +25,7 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/metalcorebear/NRCLex"
+Homepage = "https://github.com/DemetersSon83/NRCLex/tree/master"
 
 [tool.setuptools]
 packages = ["nrclex", "nrclex.data"]
